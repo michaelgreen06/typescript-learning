@@ -34,6 +34,34 @@
       "createdAt": "2022-03-23T03:55:59.614Z",
       "updatedAt": "2022-03-23T03:55:59.614Z",
       "id": "tweet-1220baa2-2092-4ed8-a72c-91757dc508f7"
+    },
+    {
+      "message": "First Tweet!!!",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-09-27T16:46:32.396Z",
+      "updatedAt": "2024-09-27T16:46:32.396Z",
+      "id": "tweet-73630883-8d2d-465c-a60c-0dbc21b2415f"
+    },
+    {
+      "message": "Hello! This is a first tweet",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-09-27T17:06:02.179Z",
+      "updatedAt": "2024-09-27T17:06:02.179Z",
+      "id": "tweet-baefba5e-0205-4a7a-9f12-a0a5613e8482"
+    },
+    {
+      "message": "Does this automatically work?! Will we see it right away?! ",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-09-27T17:09:53.576Z",
+      "updatedAt": "2024-09-27T17:09:53.576Z",
+      "id": "tweet-d0107bd6-06b9-43ca-a1a1-4285b55353b8"
+    },
+    {
+      "message": "ahhh no more refetching please!!!",
+      "userId": "user-15a37948-7712-4e0b-a554-2fef33f31697",
+      "createdAt": "2024-09-27T17:10:57.476Z",
+      "updatedAt": "2024-09-27T17:10:57.476Z",
+      "id": "tweet-f7d0780a-a5b5-44fe-bf9c-50c4d214fa70"
     }
   ],
   "users": [
