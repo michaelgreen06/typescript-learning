@@ -1,5 +1,6 @@
 import Query from './resolvers/Query';
 import User from './resolvers/User';
+import Trend from './resolvers/Trend';
 import Mutation from './resolvers/Mutations';
 import Tweet from './resolvers/Tweet';
 import { Resolvers } from './resolvers-types.generated';
@@ -17,6 +18,7 @@ const resolvers: Resolvers<TwitterResolverContext> = {
   User,
   Mutation,
   Tweet,
+  Trend,
 };
 
 export default resolvers;
